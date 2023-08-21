@@ -1,0 +1,12 @@
+#pointTotal{
+    display: flex;
+    flex-direction: row;
+}
+#randomNumbers{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    max-width: 15rem;
+    max-height: 15rem; 
+}

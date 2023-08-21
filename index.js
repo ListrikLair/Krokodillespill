@@ -51,11 +51,6 @@ function guess() {
     }
 }
 
-function reshuffle(){
-    randomizeNumbers()
-    setPoints();
-}
-
 function resetGame() {
     points = 0;
     randomizeNumbers()

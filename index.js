@@ -1,7 +1,6 @@
 var points = 0;
 var number1;
 var number2;
-var inputValue;
 
 randomizeNumbers();
 setPoints();
